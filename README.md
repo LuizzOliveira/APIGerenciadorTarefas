@@ -21,10 +21,9 @@ Por isso, o projeto contem:
 
 ---
 
-<aside>
-Dados e campos
 
-</aside>
+*Dados e campos*
+
 
 Uma tarefa tem os seguintes campos:
 
@@ -40,7 +39,7 @@ Uma tarefa tem os seguintes campos:
 ---
 
 <aside>
-Endpoints
+*Endpoints*
 
 </aside>
 
