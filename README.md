@@ -14,11 +14,12 @@ Arquitetura em camadas
 
 Como visto em aula, é uma boa prática dividirmos a nossa aplicação em camadas. 
 Por isso, o projeto contem: 
-
-             **Camada de comunicação**
-
-          **Camada de regras de negócios**
-
+<aside>
+             Camada de comunicação
+</aside>
+<aside>
+          Camada de regras de negócios
+</aside>
 ---
 
 <aside>
@@ -40,7 +41,7 @@ Uma tarefa tem os seguintes campos:
 ---
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Endpoints
+Endpoints
 
 </aside>
 
