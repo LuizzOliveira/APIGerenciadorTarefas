@@ -1,0 +1,16 @@
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\bin\Debug\net8.0\TaskManager.Aplication.deps.json
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\bin\Debug\net8.0\TaskManager.Aplication.dll
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\bin\Debug\net8.0\TaskManager.Aplication.pdb
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.csproj.AssemblyReference.cache
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.AssemblyInfoInputs.cache
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.AssemblyInfo.cs
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.sourcelink.json
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskMana.D0B2AD4A.Up2Date
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.dll
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\refint\TaskManager.Aplication.dll
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\TaskManager.Aplication.pdb
+C:\Users\Luiz\source\repos\GerenciadorTarefas\GerenciadorTarefas.Aplication\obj\Debug\net8.0\ref\TaskManager.Aplication.dll

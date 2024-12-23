@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7E41F1-9F90-4406-B804-B25B85416543}|GerenciadorTarefas.API\\TaskManager.API.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.api\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7E41F1-9F90-4406-B804-B25B85416543}|GerenciadorTarefas.API\\TaskManager.API.csproj|solutionrelative:gerenciadortarefas.api\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.aplication\\usecase\\tarefa\\updatetask\\updatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|solutionrelative:gerenciadortarefas.aplication\\usecase\\tarefa\\updatetask\\updatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.aplication\\usecase\\tarefa\\deletetask\\deletetaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|solutionrelative:gerenciadortarefas.aplication\\usecase\\tarefa\\deletetask\\deletetaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.aplication\\usecase\\tarefa\\getbyidtask\\gettaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|solutionrelative:gerenciadortarefas.aplication\\usecase\\tarefa\\getbyidtask\\gettaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.aplication\\usecase\\tarefa\\getalltask\\getalltaskusecasejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|solutionrelative:gerenciadortarefas.aplication\\usecase\\tarefa\\getalltask\\getalltaskusecasejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\response\\responseregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\response\\responseregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\request\\requesttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\request\\requesttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.aplication\\usecase\\tarefa\\registertask\\registertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31401044-100D-471C-B1B2-C3424DEAFB48}|GerenciadorTarefas.Aplication\\TaskManager.Aplication.csproj|solutionrelative:gerenciadortarefas.aplication\\usecase\\tarefa\\registertask\\registertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\response\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\response\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\enum\\statustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\enum\\statustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\response\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\response\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\enum\\prioritytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\enum\\prioritytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\response\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\response\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|c:\\users\\luiz\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\response\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03C44B8-4FB4-4EB1-B8D4-1F5D3D78C3A3}|GerenciadorTarefas.Communication\\TaskManager.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\response\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\UpdateTask\\UpdateTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\UpdateTask\\UpdateTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\UpdateTask\\UpdateTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\UpdateTask\\UpdateTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:47:25.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTaskById.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\DeleteTask\\DeleteTaskById.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\DeleteTask\\DeleteTaskById.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\DeleteTask\\DeleteTaskById.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\DeleteTask\\DeleteTaskById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:46:18.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTAskById.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetByIdTask\\GetTAskById.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetByIdTask\\GetTAskById.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetByIdTask\\GetTAskById.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetByIdTask\\GetTAskById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:32:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseRegisterTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseRegisterTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Response\\ResponseRegisterTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseRegisterTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Response\\ResponseRegisterTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:52:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManageController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.API\\Controllers\\TaskManageController.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.API\\Controllers\\TaskManageController.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.API\\Controllers\\TaskManageController.cs",
+              "RelativeToolTip": "GerenciadorTarefas.API\\Controllers\\TaskManageController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:39:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Request\\RequestTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Request\\RequestTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Request\\RequestTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Request\\RequestTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:57:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllTaskUseCaseJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetAllTask\\GetAllTaskUseCaseJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetAllTask\\GetAllTaskUseCaseJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetAllTask\\GetAllTaskUseCaseJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\GetAllTask\\GetAllTaskUseCaseJson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:46:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\RegisterTask\\RegisterTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\RegisterTask\\RegisterTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\RegisterTask\\RegisterTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Aplication\\UseCase\\Tarefa\\RegisterTask\\RegisterTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:50:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Response\\ResponseTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Response\\ResponseTaskJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:46:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PriorityType.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\PriorityType.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Enum\\PriorityType.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\PriorityType.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Enum\\PriorityType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:19:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatusType.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\StatusType.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Enum\\StatusType.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\StatusType.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Enum\\StatusType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:21:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseShortTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseShortTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Response\\ResponseShortTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseShortTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Response\\ResponseShortTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:55:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseAllTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseAllTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Response\\ResponseAllTaskJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseAllTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Response\\ResponseAllTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:51:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseErrorsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseErrorsJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Response\\ResponseErrorsJson.cs",
+              "ToolTip": "C:\\Users\\Luiz\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Response\\ResponseErrorsJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Response\\ResponseErrorsJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:59:33.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
