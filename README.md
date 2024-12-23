@@ -8,7 +8,7 @@ O sistema permiti que o usuário crie, visualize, edite e exclua uma tarefa.
 ### Requisitos
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Arquitetura em camadas
+Arquitetura em camadas
 
 </aside>
 
@@ -22,7 +22,7 @@ Por isso, o projeto contem:
 ---
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Dados e campos
+Dados e campos
 
 </aside>
 
