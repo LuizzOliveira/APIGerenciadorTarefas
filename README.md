@@ -7,10 +7,8 @@ O sistema permiti que o usuário crie, visualize, edite e exclua uma tarefa.
 
 ### Requisitos
 
-<aside>
-Arquitetura em camadas
+*Arquitetura em camadas*
 
-</aside>
 
 Como visto em aula, é uma boa prática dividirmos a nossa aplicação em camadas. 
 Por isso, o projeto contem: 
@@ -38,10 +36,7 @@ Uma tarefa tem os seguintes campos:
 
 ---
 
-<aside>
 *Endpoints*
-
-</aside>
 
 - É possível criar uma tarefa;
 - Visualizar todas as tarefas criadas;
