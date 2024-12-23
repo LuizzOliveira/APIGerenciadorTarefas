@@ -14,12 +14,11 @@ Arquitetura em camadas
 
 Como visto em aula, é uma boa prática dividirmos a nossa aplicação em camadas. 
 Por isso, o projeto contem: 
-<aside>
-             Camada de comunicação
-</aside>
-<aside>
-          Camada de regras de negócios
-</aside>
+
+*Camada de comunicação*
+
+*Camada de regras de negócios*
+
 ---
 
 <aside>
